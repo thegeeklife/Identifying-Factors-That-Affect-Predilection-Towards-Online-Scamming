@@ -1,0 +1,2 @@
+# Factors-Affecting-Predilection-Towards-Scamming
+Understanding the psychological and sociological techniques used by scammers is an important part of identifying and trying to address the root cause of online fraud attacks. While some research focusing on the experiences and psychology of victims of these attacks as well as the countermeasures that can be taken to protect them from such attacks exists, there is little research on the psychology and motivation of those who commit online fraud. This study aims to uncover motivations of online fraudsters. 
