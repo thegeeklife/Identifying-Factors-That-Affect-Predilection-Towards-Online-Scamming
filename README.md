@@ -3,9 +3,9 @@ Understanding the psychological and sociological techniques used by scammers is 
 
 # Surveys Used 
 The Surveys_used folder consists full surveys that have been used in the study. However, in order to reduce survey fatigue, I only included certain sections of some of the survey scales. 
-DOSPERT Risk Perception Scale:
+# DOSPERT Risk Perception Scale:
   Included only Social, Financial and Ethical risk questions
-CCRI:
+# CCRI:
   I chose a subset of 30 questions from the survey and had participants indicate "Yes" or "No" for indulging in those acts.
  The PDF attached shows a list of questions that were asked, excluding the demographics collected.
 
