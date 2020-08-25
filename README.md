@@ -10,4 +10,4 @@ CCRI:
  The PDF attached shows a list of questions that were asked, excluding the demographics collected.
 
 # Data Used 
-The data that was used is not included because of confidentiality agreement. However, since the surveys used have been provided the results should be reproducible.
+The data that was used is not included because of confidentiality agreement, the values have also been manipulated to ensure that responses cannot be traced back. However, since the surveys used have been provided the results should be reproducible.
