@@ -9,6 +9,9 @@ The Surveys_used folder consists full surveys that have been used in the study. 
 4. DOSPERT : Instrument to measure Risk Perception (Blais & Weber, 2006)\
 5. soc d3 :  Instrument to measure Spheres of Control (Paulhus, 1990)\
 
-In order to reduce survey fatigue, I only included certain sections of some of the survey scales. From the DOSPERT Risk Perception Scale, I included only Social, Financial and Ethical risk questions. From the Computer Crime Index Scale, I chose a subset of 30 questions from the survey and had participants indicate "Yes" or "No" for indulging in those acts.
+In order to reduce survey fatigue, I only included certain sections of some of the survey scales. From the DOSPERT Risk Perception Scale, I included only Social, Financial and Ethical risk questions. From the Computer Crime Index Scale, I chose a subset of 30 questions from the survey and had participants indicate "Yes" or "No" for indulging in those acts. \
+
+I would advise keeping track of all questions in a seprate file (a research code book of sorts), which will make it easier to recode the columns after we have all our data.
+
 # Data Used 
 The data that was used is not included because of confidentiality agreement, and data points have also been manipulated to ensure that responses cannot be traced back to individuals. However, since the surveys used have been provided the results should be reproducible.
