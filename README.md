@@ -17,3 +17,12 @@ I would advise keeping track of all questions in a seprate file (a research code
 
 # Data Used 
 The data that was used is not included because of confidentiality agreement, and data points have also been manipulated to ensure that responses cannot be traced back to individuals. However, since the surveys used have been provided the results should be reproducible.
+
+# scammer_motives.ipynb
+This script will test the hypotheses that were developed after a literature review
+
+# SEM_Scammer_Model.R
+This script evaluates the hypothesized model using Structural Equation Modeling
+
+# Future Work
+A lot of information was collected for this project, however the scripts only test the hypotheses developed. We could perform a PCA to detect what components contribute to 'Intent' to commit online scams or to an individual being classified as a 'CyberScammer' or 'Non-CyberScammer' (these variables have already been manipulated in the python notebook. These components can be used as features in a Machine Learning model to predict if the individual has the intent to commit fraud (prediction) or if the individual is a cyber-scammer or not (classification). 
